@@ -1,0 +1,22 @@
+header{
+    background-image: url("./images/bg-masthead.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+
+.container h1{
+    font-size: 60px;
+
+}
+
+.container2{
+    
+}
+section{
+    background-image: url("./images/ipad.png");
+    background-color: grey;
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 400px;
+}
