@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Ismaelblk/exo-bs4-github#readme",
   "dependencies": {
-    "bootstrap": "^4.2.1"
+    "bootstrap": "^4.2.1",
+    "popper.js": "^1.14.6"
   }
 }
